@@ -174,7 +174,7 @@ currently_working_on:
 - 🔬 **Research** - AI applications in real-world problems
 
 ### 📫 **Get In Touch**
-- 💬 **Ask me about**: Machine Learning, Data Science, Gen AI, LLMOps
+- 💬 **Ask me about**: Machine Learning, Data Science, Gen AI
 - 📧 **Email**: arpanchakraborty500@gmail.com
 - 🌍 **Location**: India
 
